@@ -6,7 +6,7 @@ body {
   max-width: 950px;
   max-height: 1200px;
   overflow: auto;
-  margin: 30px auto 0;
+  margin: 10px auto 0;
   box-shadow: 0 0 40px #a0a0a0;
   font-family: 'Open Sans', sans-serif;
 }
