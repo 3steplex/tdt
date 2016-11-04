@@ -8,7 +8,7 @@
 }
 
 .navbar {
-  background: radial-gradient(circle, #202020, #f73434);
+  background: radial-gradient(circle, #ef0909, #fc6767);
   color: #202020;
   padding: 1em 0.5em;
 }
@@ -167,8 +167,8 @@
 .timeline .bullet.red {
   border: 2px solid #ef0909;
 }
-.timeline .bullet.orange {
-  border: 2px solid #EB8B6E;
+.timeline .bullet.wrer {
+  border: 2px solid #fc4e4e;
 }
 .timeline .time {
   width: 20%;
