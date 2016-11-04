@@ -1,4 +1,4 @@
-# tdt
+# Projecto TDT Cronologia
 
 Projecto de criação de site de base cronológico sobre a Televisão Digital Terrestre em Portugal.
 
