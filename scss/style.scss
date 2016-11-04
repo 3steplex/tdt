@@ -21,7 +21,7 @@ $greendark: #0d963d;
 
 .navbar {
   background: radial-gradient(circle, $red , lighten($wred, 5));
-  color: $black;
+  color: $white;
   padding: 1em 0.5em;
   
   a {
@@ -210,6 +210,7 @@ $greendark: #0d963d;
     font-size: 0.9em;
     font-weight: 400;
     margin: 0;
+    color: $black;
   }
   
   h4 {
