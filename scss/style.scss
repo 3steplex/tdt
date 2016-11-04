@@ -5,7 +5,7 @@ $light-grey: #d9d9d9;
 $red: #ef0909;
 $pink: #F93B69;
 $green: #B0E8E2;
-$orange: #EB8B6E;
+$wre: #fc4e4e;
 $greendark: #0d963d;
 
 
@@ -15,12 +15,12 @@ $greendark: #0d963d;
   max-height: 1400px;
   overflow: auto;
   margin: 30px auto 0;
-  box-shadow: 0 0 40px lighten($white, 20);
+  box-shadow: 0 0 40px lighten($white, 10);
   font-family: 'Open Sans', sans-serif;
 }
 
 .navbar {
-  background: radial-gradient(circle, $black , lighten($red, 10));
+  background: radial-gradient(circle, $red , lighten($wred, 5));
   color: $black;
   padding: 1em 0.5em;
   
@@ -191,8 +191,8 @@ $greendark: #0d963d;
       border: 2px solid $red;
     }
     
-    &.orange {
-      border: 2px solid $orange;
+    &.wred {
+      border: 2px solid $wred;
     }
   }
   
