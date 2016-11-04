@@ -4,11 +4,11 @@ Projecto de criação de site de base cronológico sobre a Televisão Digital Te
 
 Baseado no projeto de: 
 
-Simon Reinsperger - Timeline UI
+- Simon Reinsperger - Timeline UI
 http://codepen.io/abisz/pen/qaEOEm
 
 
-Anton Aheichanka - Timeline & Profile 
+- Anton Aheichanka - Timeline & Profile 
 https://dribbble.com/shots/1980532-Timeline-Profile/
 
 
